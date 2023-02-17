@@ -1,0 +1,7 @@
+{
+  "name": "Boosmap-Registro-Viajes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
